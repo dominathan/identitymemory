@@ -43,6 +43,12 @@ end
 gem 'bootstrap-sass', '3.1.1'
 gem 'sprockets', '2.11.0'
 
+
+#for login
+gem 'devise'
+gem 'omniauth', '>= 1.0.0'
+gem 'omniauth-facebook', '1.4.0'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
